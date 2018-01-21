@@ -1,0 +1,23 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "Fundamentals of JavaScript - for study purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint --fix src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyukebox/javascript-fundamentals.git"
+  },
+  "author": "Byeong Gyu Choi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gyukebox/javascript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/gyukebox/javascript-fundamentals#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
